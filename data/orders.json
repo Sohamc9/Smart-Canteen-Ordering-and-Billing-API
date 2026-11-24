@@ -21,5 +21,21 @@
     "tax": 7.0,
     "total": 147.0,
     "status": "ready"
+  },
+  {
+    "id": 2,
+    "lines": [
+      {
+        "item_id": 1,
+        "name": "Veg Sandwich",
+        "unit_price": 60.0,
+        "quantity": 1,
+        "line_total": 60.0
+      }
+    ],
+    "subtotal": 60.0,
+    "tax": 3.0,
+    "total": 63.0,
+    "status": "pending"
   }
 ]
