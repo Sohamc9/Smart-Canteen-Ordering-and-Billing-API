@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "lines": [
+      {
+        "item_id": 1,
+        "name": "Veg Sandwich",
+        "unit_price": 60.0,
+        "quantity": 2,
+        "line_total": 120.0
+      },
+      {
+        "item_id": 2,
+        "name": "Masala Tea",
+        "unit_price": 20.0,
+        "quantity": 1,
+        "line_total": 20.0
+      }
+    ],
+    "subtotal": 140.0,
+    "tax": 7.0,
+    "total": 147.0,
+    "status": "ready"
+  }
+]

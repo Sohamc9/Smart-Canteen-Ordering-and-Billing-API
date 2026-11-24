@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Veg Sandwich", "price": 60.0, "available": true},
+  {"id": 2, "name": "Masala Tea", "price": 20.0, "available": true},
+  {"id": 3, "name": "Samosa", "price": 15.0, "available": true}
+]
